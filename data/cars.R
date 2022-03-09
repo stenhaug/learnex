@@ -18,3 +18,5 @@ cars %>%
     )
 
 cars %>% write_csv("data/cars.csv")
+
+read_csv("https://bit.ly/simple-data-cars")
