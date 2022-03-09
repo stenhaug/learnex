@@ -9,5 +9,7 @@ raw <-
 
 raw %>% write_csv("data/test.csv")
 
+read_csv("https://raw.githubusercontent.com/stenhaug/learnex/master/data/test.csv")
 
+read_csv("https://bit.ly/bentestcsvchange")
 
