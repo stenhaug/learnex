@@ -34,21 +34,3 @@ cars %>%
         subtitle = "4 cylinder cars have best mpg",
         caption = "•Data from mpg in R.\n•Showing power of ggplot"
     )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
